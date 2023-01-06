@@ -13,3 +13,5 @@ Este es un proyecto de JS para aprender a hacer un carrito de compras del curso 
 6. utilizar spread operator para copiar un array.
 7. Crear funciones y utilizarlas dentro de otras funciones.
 
+[Link del proyecto subido a netlify](https://zesty-panda-23beb2.netlify.app/)
+
